@@ -48,23 +48,36 @@ For the vortex, we went through a period of brainstorming and making design choi
 
 VORTEX:
 - Try sphere (fishbowl) for vortex system
+  - (Ça) Cool, up for testing this. 
 - Add leds as candle or some nice effect
+  - (Ça) We can test. We'd need to design a base for holding the LEDs.
 - Try starting the vortex with some arduino code for automation
+  - (Ça) I can prep the circuit and code for this so we test on Tuesday. 
 - Model and 3d print piece to grab magnets attached to motor
+  - (Ça) I think this is the most important one. Ramiro could you design a piece for the motor, and possibly a piece to hold the magnets (so that it's softer and rotates more easily) 
 
 FILTERING PLANTS:
 - Cut pipe and make holes for plants
+  - (Ça) We can do on Tuesday?
 - Add manual valve "" on side for water go to vortex
+  - (Ça) I can bring a valve, we can try fitting it. But it's white (and not so pretty). 
 - Add valve for water to go from lipid trap to plants pipe
+  - (Ça) For this, we'd need the pump, no?
 
 LIPID TRAP:
 - Take old water and store greywater(our houses or IAAC cleaning) for live test on wednesday
+  - (Ça) Shall we make the Lipid trap more pretty by cleaning it from the markings from last time, and clearly show the water flow?
+  - (Ça) We can use water from school I guess?
 - Put mesh for solids at the beginning of the trap
+  - (Ça) Good idea
 - Put pump and connect it to plants pipe
+  - (Ok, this can also be controlled by Arduino  
 
 EXTRAS:
 
 - Ive made some sketches on how might look a new look for this system we created, ill show it to you and if you like it (and we define it together) maybe I can model it end of tuesday and make some render to show it on wednesday as improve for the prototype we have.
+  - Cool   
 - Presentation things? i dont know if we should make some posters or something as the previous dialogue. It would be good to define what we want to show of information apart from the prototype (printings, etc).
+  - I'm not sure if we need to print anything that explains this project better than the demo. Maybe we can place a computer next to it to show our repo, other references, etc. if needed?
 
 
